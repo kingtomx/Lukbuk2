@@ -1,13 +1,6 @@
 ﻿<Properties StartupConfiguration="{7E2D3B23-6912-4F89-A4A8-24C1116C09DE}|Default">
   <MonoDevelop.Ide.ItemProperties.Lukbuk.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0D1F1D5D-E762-43A8-9063-C32A6A96B226" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lukbuk.git Status">
-    <Files>
-      <File FileName="Lukbuk/LukbukPage.xaml.cs" Line="25" Column="81" />
-      <File FileName="Lukbuk/LukbukPageList.xaml.cs" Line="41" Column="1" />
-      <File FileName="Lukbuk Status" />
-      <File FileName="Lukbuk.git Status" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
