@@ -22,7 +22,7 @@ namespace Lukbuk
 		{
 			try
 			{
-				IEnumerable response = await Internet.FeedController.Get("https://raw.githubusercontent.com/kingtomx/Lukbuk/master/out.json");
+				IEnumerable response = await Internet.FeedController.Get("https://raw.githubusercontent.com/kingtomx/Lukbuk2/master/out.json");
 				Application.Current.MainPage = new NavigationPage(new LukbukPageList((List<JToken>)response));
 			}
 			catch (System.Exception ex)
