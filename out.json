@@ -1,60 +1,37 @@
 {
-
-    "version": "1.0",
-    "datetime": "1491312636",
-    "api": "lukbukfeed",
-    "elements": [
-        {
-            "type": "lukbukimage",
-            "image": "https://www.vitamina.com.ar/skin/frontend/default/vitamina/images/lookbook/final/1-GORRO-GORRITI-ABRIGO-MALDONADO-POLERON-SOLANAS-PANTALON-MONTEVIDEO-BANDOLERA-SARAND-BOTA-ATLNTIDA.jpg",
-            "title": "Vitamina invierno 2017",
-            "description": "GORRO GORRITI, ABRIGO MALDONADO, POLERON SOLANAS, PANTALON MONTEVIDEO, BANDOLERA SARANDI Y BOTA ATLANTIDA",
-            "url": {
-                "general": "https://www.vitamina.com.ar/lookbook-oi17",
-                "items": [
-                    {
-                        "name": "name of the item",
-                        "price": "price of the item",
-                        "currency": "currency of the item",
-                        "url": "url of the item",
-                        "description": "description of the item"
-                    }
-                ]
-            } 
-        },
-        {
-            "type": "lukbukimagespecial",
-            "image": "http://www.delaostia.net/media/wysiwyg/lookbookinvierno2017/lookbook8.jpg",
-            "title": "De La Hostia invierno 2017",
-            "description": "La tendencia la inauguró Kendall Jenner y enseguida se sumaron otras Insta-girls y supermodelos, entre ellas la brasileña Sara Sampaio. Se puede llevar a la vista, con una camisa abierta, por debajo de un top transparente o con una pieza-top de lencería por encima de una camiseta blanca.",
-            "url": "http://www.delaostia.net/lookbook/",
-            "urlbuy": "http://www.delaostia.net/shop/"
-        },   
-        {
-            "type": "lukbukimage",
-            "image": "http://www.inversa.com.ar/media/wysiwyg/lookbook/Inversa-Lookbook-Otono-Inverno-Autumn-Winter-2017-5.jpg",
-            "title": "Inversa invierno 2017",
-            "description": "Remera Cardiff, Jean Amsterdam, Sweater Fun people, Collar Barker",
-            "url": {
-                "general": "http://www.inversa.com.ar/lookbook/",
-                "items": [
-                    {
-                        "name": "name of the item",
-                        "price": "price of the item",
-                        "currency": "currency of the item",
-                        "url": "url of the item",
-                        "description": "description of the item"
-                    }
-                ]
-            } 
-        },        
-        {
-            "type": "lukbukconcurso",
-            "image": "http://www.ossira.com/oto_inv_2017/uploads/banners/20170301-020110.jpg",
-            "title": "Concurso Ossira invierno 2017",
-            "description": "La tendencia la inauguró Kendall Jenner y enseguida se sumaron otras Insta-girls y supermodelos, entre ellas la brasileña Sara Sampaio. Se puede llevar a la vista, con una camisa abierta, por debajo de un top transparente o con una pieza-top de lencería por encima de una camiseta blanca.",
-            "url": "http://www.ossira.com/oto_inv_2017/",
-            "id": ""
-        }        
-    ]
+"version": "1.0",
+"datetime": "1491312636",
+"api": "lukbukfeed",
+"elements": [
+{
+"type": "lukbukimage",
+"image": "https://www.km77.com/images/medium/2/7/5/9/mediana1.332759.jpg",
+"title": "Mercedes-Benz GLC 350 e 4MATIC Coupé (2016)",
+"description": "El Mercedes-Benz GLC 350 e 4MATIC Coupé es la versión híbrida enchufable del GLC Coupé . Su sistema de propulsión está compuesto por un motor de gasolina y otro eléctrico, que dan una potencia máxima conjunta de 320 CV. La caja de cambios es automática de 7 velocidades (7G-TRONIC PLUS) y la tracción es en las cuatro ruedas (4MATIC). La autonomía eléctrica en condiciones de homologación es 34 km. Está en venta por 62 775 euros, un precio 2475 euros inferior al del GLC 350 d 4MATIC Coupé, una versión que tiene un motor Diesel de 258 CV, que es más lenta acelerando y que tiene un consumo medio homologado mucho más alto (ficha técnica comparativa). A pesar de todas estas ventajas, la adquisición el GLC 350 e 4MATIC Coupé no siempre es la más acertada desde el punto de vista económico, ya que su consumo de carburante depende mucho de la carga de la batería y puede llegar a ser muy elevado si se circula con ella descargada",
+"url": "https://www.km77.com/coches/mercedes/glc-coupe/2017/estandar/e/glc-coupe-350-e-4matic/informacion"
+},
+{
+"type": "lukbukimagespecial",
+"image": "https://www.km77.com/images/medium/2/9/5/7/mediana1-3.332957.jpg",
+"title": "Volkswagen T-Roc (2018)",
+"description": "El T-Roc es un vehículo con carrocería todoterreno, de menor tamaño que el Tiguan. Mide 4,23 metros de longitud (25 cm menos que el Tiguan), 1,82 m de anchura y 1,57 m de altura. Llegará a Europa en el próximo mes de noviembre. Algunos de sus posibles rivales serán el Mazda CX-3, el Opel Mokka X, el Nissan Juke, el Toyota C-HR (este es híbrido), el MINI Countryman o el Audi Q2.",
+"url": "https://www.km77.com/coches/volkswagen/t-roc/2018/estandar/informacion",
+"urlbuy": "https://www.km77.com/coches/volkswagen/t-roc/2018/estandar/informacion"
+},
+{
+"type": "lukbukimage",
+"image": "https://www.km77.com/images/medium/2/8/2/5/honda-jazz-frontal-lateral.332825.jpg",
+"title": "Honda Jazz (2018)",
+"description": "Honda renueva ligeramente el aspecto del Jazz 2015  —modelo que comercializa en España desde hace solo dos años (julio de 2015)— y amplía la oferta de motores con uno de gasolina de 130 CV. El Jazz es un monovolumen de solo cuatro metros de longitud que, en su tercera generación, hasta ahora, solo se podía adquirir con un motor de gasolina de 102 CV. Con el nuevo motor de 130 CV tiene un consumo homologado de 5,4 l/100 km, frente a los 4,6 l/100 km del de 102 CV, en ambos casos combinando los motores con una caja de cambios automática (de variador continuo). Honda dice que el funcionamiento de esta ha sido revisado para dar «una respuesta más lineal y refinada al acelerar». El motor nuevo no es el tricilíndrico con sobrealimentación que Honda usa en el Civic (que tiene 129 CV) sino el de cuatro atmosférico cilindros que tiene el H-RV.",
+"url": "https://www.km77.com/coches/honda/jazz/2018/estandar/informacion"
+},
+{
+"type": "lukbukconcurso",
+"image": "http://www.ossira.com/oto_inv_2017/uploads/banners/20170301-020110.jpg",
+"title": "Concurso Ossira invierno 2017",
+"description": "La tendencia la inauguró Kendall Jenner y enseguida se sumaron otras Insta-girls y supermodelos, entre ellas la brasileña Sara Sampaio. Se puede llevar a la vista, con una camisa abierta, por debajo de un top transparente o con una pieza-top de lencería por encima de una camiseta blanca.",
+"url": "http://www.ossira.com/oto_inv_2017/",
+"id": ""
+}
+]
 }
