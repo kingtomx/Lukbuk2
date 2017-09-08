@@ -1,0 +1,60 @@
+{
+
+    "version": "1.0",
+    "datetime": "1491312636",
+    "api": "lukbukfeed",
+    "elements": [
+        {
+            "type": "lukbukimage",
+            "image": "https://www.vitamina.com.ar/skin/frontend/default/vitamina/images/lookbook/final/1-GORRO-GORRITI-ABRIGO-MALDONADO-POLERON-SOLANAS-PANTALON-MONTEVIDEO-BANDOLERA-SARAND-BOTA-ATLNTIDA.jpg",
+            "title": "Vitamina invierno 2017",
+            "description": "GORRO GORRITI, ABRIGO MALDONADO, POLERON SOLANAS, PANTALON MONTEVIDEO, BANDOLERA SARANDI Y BOTA ATLANTIDA",
+            "url": {
+                "general": "https://www.vitamina.com.ar/lookbook-oi17",
+                "items": [
+                    {
+                        "name": "name of the item",
+                        "price": "price of the item",
+                        "currency": "currency of the item",
+                        "url": "url of the item",
+                        "description": "description of the item"
+                    }
+                ]
+            } 
+        },
+        {
+            "type": "lukbukimagespecial",
+            "image": "http://www.delaostia.net/media/wysiwyg/lookbookinvierno2017/lookbook8.jpg",
+            "title": "De La Hostia invierno 2017",
+            "description": "La tendencia la inauguró Kendall Jenner y enseguida se sumaron otras Insta-girls y supermodelos, entre ellas la brasileña Sara Sampaio. Se puede llevar a la vista, con una camisa abierta, por debajo de un top transparente o con una pieza-top de lencería por encima de una camiseta blanca.",
+            "url": "http://www.delaostia.net/lookbook/",
+            "urlbuy": "http://www.delaostia.net/shop/"
+        },   
+        {
+            "type": "lukbukimage",
+            "image": "http://www.inversa.com.ar/media/wysiwyg/lookbook/Inversa-Lookbook-Otono-Inverno-Autumn-Winter-2017-5.jpg",
+            "title": "Inversa invierno 2017",
+            "description": "Remera Cardiff, Jean Amsterdam, Sweater Fun people, Collar Barker",
+            "url": {
+                "general": "http://www.inversa.com.ar/lookbook/",
+                "items": [
+                    {
+                        "name": "name of the item",
+                        "price": "price of the item",
+                        "currency": "currency of the item",
+                        "url": "url of the item",
+                        "description": "description of the item"
+                    }
+                ]
+            } 
+        },        
+        {
+            "type": "lukbukconcurso",
+            "image": "http://www.ossira.com/oto_inv_2017/uploads/banners/20170301-020110.jpg",
+            "title": "Concurso Ossira invierno 2017",
+            "description": "La tendencia la inauguró Kendall Jenner y enseguida se sumaron otras Insta-girls y supermodelos, entre ellas la brasileña Sara Sampaio. Se puede llevar a la vista, con una camisa abierta, por debajo de un top transparente o con una pieza-top de lencería por encima de una camiseta blanca.",
+            "url": "http://www.ossira.com/oto_inv_2017/",
+            "id": ""
+        }        
+    ]
+}

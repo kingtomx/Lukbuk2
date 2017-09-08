@@ -1,0 +1,26 @@
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=xamarin_timezone_get_data
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/tomas/Projects/kingtomx/Lukbuk.git/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
